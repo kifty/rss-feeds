@@ -2,13 +2,12 @@
 <rss version="2.0">
 <channel>
 <title>Superman 01</title>
-<link>https://archive.org/details/Superman_page01<link>
+<link>https://archive.org/details/Superman_page01</link>
 <language>en-us</language>
 <description>Testing my RSS feed script.</description>
 
 <item>
     <title>The Origin of Superman (Audition Pt 01)</title>
-    <description>Description of podcast episode content</description>
     <link>https://archive.org/details/Superman_page01</link>
     <enclosure url="https://archive.org/download/Superman_page01/39xxxx_0000_The_Origin_of_-_Audition_Pt_01.mp3" type="audio/mpeg" length="11111"></enclosure>
     <guid>https://archive.org/details/Superman_page01</guid>
